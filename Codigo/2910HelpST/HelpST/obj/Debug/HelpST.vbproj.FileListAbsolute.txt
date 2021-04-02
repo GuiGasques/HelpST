@@ -1,0 +1,499 @@
+F:\Etec\3 Ano\DS\HelpST\HelpST\bin\Debug\HelpST.exe.config
+F:\Etec\3 Ano\DS\HelpST\HelpST\bin\Debug\HelpST.exe
+F:\Etec\3 Ano\DS\HelpST\HelpST\bin\Debug\HelpST.pdb
+F:\Etec\3 Ano\DS\HelpST\HelpST\bin\Debug\HelpST.xml
+F:\Etec\3 Ano\DS\HelpST\HelpST\bin\Debug\MetroFramework.Design.dll
+F:\Etec\3 Ano\DS\HelpST\HelpST\bin\Debug\MetroFramework.dll
+F:\Etec\3 Ano\DS\HelpST\HelpST\bin\Debug\MetroFramework.Fonts.dll
+F:\Etec\3 Ano\DS\HelpST\HelpST\obj\Debug\HelpST.vbprojAssemblyReference.cache
+F:\Etec\3 Ano\DS\HelpST\HelpST\obj\Debug\HelpST.TelaLogin.resources
+F:\Etec\3 Ano\DS\HelpST\HelpST\obj\Debug\HelpST.Resources.resources
+F:\Etec\3 Ano\DS\HelpST\HelpST\obj\Debug\HelpST.vbproj.GenerateResource.cache
+F:\Etec\3 Ano\DS\HelpST\HelpST\obj\Debug\HelpST.vbproj.CoreCompileInputs.cache
+F:\Etec\3 Ano\DS\HelpST\HelpST\obj\Debug\HelpST.vbproj.CopyComplete
+F:\Etec\3 Ano\DS\HelpST\HelpST\obj\Debug\HelpST.exe
+F:\Etec\3 Ano\DS\HelpST\HelpST\obj\Debug\HelpST.xml
+F:\Etec\3 Ano\DS\HelpST\HelpST\obj\Debug\HelpST.pdb
+F:\Etec\3 Ano\DS\HelpST\HelpST\obj\Debug\HelpST.MenuAdmin.resources
+F:\Etec\3 Ano\DS\HelpST\HelpST\obj\Debug\HelpST.MenuUser.resources
+F:\Etec\3 Ano\DS\HelpST\HelpST\obj\Debug\HelpST.Chamados.resources
+F:\Etec\3 Ano\DS\HelpST\HelpST\obj\Debug\HelpST.NovoChamado.resources
+F:\Etec\3 Ano\DS\HelpST\HelpST\obj\Debug\HelpST.NovoUsuario.resources
+F:\Etec\3 Ano\DS\HelpST\HelpST\obj\Debug\HelpST.NovaSala.resources
+F:\Etec\3 Ano\DS\HelpST\HelpST\obj\Debug\HelpST.MeusChamados.resources
+F:\Etec\3 Ano\DS\HelpST\HelpST\obj\Debug\HelpST.ChamadosFinalizados.resources
+F:\Etec\3 Ano\DS\HelpST\HelpST\obj\Debug\HelpST.ChamadosExcluidos.resources
+F:\Etec\3 Ano\DS\HelpST\HelpST\obj\Debug\HelpST.Chamado.resources
+F:\Etec\3 Ano\DS\HelpST\HelpST\obj\Debug\HelpST.ResponderChamado.resources
+E:\Etec\3 Ano\DS\HelpST\HelpST\bin\Debug\HelpST.exe.config
+E:\Etec\3 Ano\DS\HelpST\HelpST\obj\Debug\HelpST.exe
+E:\Etec\3 Ano\DS\HelpST\HelpST\obj\Debug\HelpST.xml
+E:\Etec\3 Ano\DS\HelpST\HelpST\obj\Debug\HelpST.pdb
+E:\Etec\3 Ano\DS\HelpST\HelpST\bin\Debug\HelpST.exe
+E:\Etec\3 Ano\DS\HelpST\HelpST\bin\Debug\HelpST.pdb
+E:\Etec\3 Ano\DS\HelpST\HelpST\bin\Debug\HelpST.xml
+E:\Etec\3 Ano\DS\HelpST\HelpST\bin\Debug\MetroFramework.Design.dll
+E:\Etec\3 Ano\DS\HelpST\HelpST\bin\Debug\MetroFramework.dll
+E:\Etec\3 Ano\DS\HelpST\HelpST\bin\Debug\MetroFramework.Fonts.dll
+E:\Etec\3 Ano\DS\HelpST\HelpST\obj\Debug\HelpST.vbprojResolveAssemblyReference.cache
+E:\Etec\3 Ano\DS\HelpST\HelpST\obj\Debug\HelpST.Chamados.resources
+E:\Etec\3 Ano\DS\HelpST\HelpST\obj\Debug\HelpST.ChamadosExcluidos.resources
+E:\Etec\3 Ano\DS\HelpST\HelpST\obj\Debug\HelpST.ChamadosFinalizados.resources
+E:\Etec\3 Ano\DS\HelpST\HelpST\obj\Debug\HelpST.MenuAdmin.resources
+E:\Etec\3 Ano\DS\HelpST\HelpST\obj\Debug\HelpST.MenuUser.resources
+E:\Etec\3 Ano\DS\HelpST\HelpST\obj\Debug\HelpST.MeusChamados.resources
+E:\Etec\3 Ano\DS\HelpST\HelpST\obj\Debug\HelpST.NovaSala.resources
+E:\Etec\3 Ano\DS\HelpST\HelpST\obj\Debug\HelpST.NovoChamado.resources
+E:\Etec\3 Ano\DS\HelpST\HelpST\obj\Debug\HelpST.NovoUsuario.resources
+E:\Etec\3 Ano\DS\HelpST\HelpST\obj\Debug\HelpST.Chamado.resources
+E:\Etec\3 Ano\DS\HelpST\HelpST\obj\Debug\HelpST.ResponderChamado.resources
+E:\Etec\3 Ano\DS\HelpST\HelpST\obj\Debug\HelpST.TelaLogin.resources
+E:\Etec\3 Ano\DS\HelpST\HelpST\obj\Debug\HelpST.Resources.resources
+E:\Etec\3 Ano\DS\HelpST\HelpST\obj\Debug\HelpST.vbproj.GenerateResource.Cache
+D:\HelpST\HelpST\bin\Debug\HelpST.exe.config
+D:\HelpST\HelpST\obj\Debug\HelpST.exe
+D:\HelpST\HelpST\obj\Debug\HelpST.xml
+D:\HelpST\HelpST\obj\Debug\HelpST.pdb
+F:\Etec\3 Ano\TCC\HelpST\HelpST\bin\Debug\HelpST.exe.config
+F:\Etec\3 Ano\TCC\HelpST\HelpST\bin\Debug\HelpST.exe
+F:\Etec\3 Ano\TCC\HelpST\HelpST\bin\Debug\HelpST.pdb
+F:\Etec\3 Ano\TCC\HelpST\HelpST\bin\Debug\HelpST.xml
+F:\Etec\3 Ano\TCC\HelpST\HelpST\bin\Debug\MetroFramework.Design.dll
+F:\Etec\3 Ano\TCC\HelpST\HelpST\bin\Debug\MetroFramework.dll
+F:\Etec\3 Ano\TCC\HelpST\HelpST\bin\Debug\MetroFramework.Fonts.dll
+F:\Etec\3 Ano\TCC\HelpST\HelpST\obj\Debug\HelpST.vbprojAssemblyReference.cache
+F:\Etec\3 Ano\TCC\HelpST\HelpST\obj\Debug\HelpST.Chamados.resources
+F:\Etec\3 Ano\TCC\HelpST\HelpST\obj\Debug\HelpST.ChamadosExcluidos.resources
+F:\Etec\3 Ano\TCC\HelpST\HelpST\obj\Debug\HelpST.ChamadosFinalizados.resources
+F:\Etec\3 Ano\TCC\HelpST\HelpST\obj\Debug\HelpST.MenuAdmin.resources
+F:\Etec\3 Ano\TCC\HelpST\HelpST\obj\Debug\HelpST.MenuUser.resources
+F:\Etec\3 Ano\TCC\HelpST\HelpST\obj\Debug\HelpST.MeusChamados.resources
+F:\Etec\3 Ano\TCC\HelpST\HelpST\obj\Debug\HelpST.NovaSala.resources
+F:\Etec\3 Ano\TCC\HelpST\HelpST\obj\Debug\HelpST.NovoChamado.resources
+F:\Etec\3 Ano\TCC\HelpST\HelpST\obj\Debug\HelpST.NovoUsuario.resources
+F:\Etec\3 Ano\TCC\HelpST\HelpST\obj\Debug\HelpST.Chamado.resources
+F:\Etec\3 Ano\TCC\HelpST\HelpST\obj\Debug\HelpST.ResponderChamado.resources
+F:\Etec\3 Ano\TCC\HelpST\HelpST\obj\Debug\HelpST.TelaLogin.resources
+F:\Etec\3 Ano\TCC\HelpST\HelpST\obj\Debug\HelpST.Resources.resources
+F:\Etec\3 Ano\TCC\HelpST\HelpST\obj\Debug\HelpST.vbproj.GenerateResource.cache
+F:\Etec\3 Ano\TCC\HelpST\HelpST\obj\Debug\HelpST.vbproj.CoreCompileInputs.cache
+F:\Etec\3 Ano\TCC\HelpST\HelpST\obj\Debug\HelpST.vbproj.CopyComplete
+F:\Etec\3 Ano\TCC\HelpST\HelpST\obj\Debug\HelpST.exe
+F:\Etec\3 Ano\TCC\HelpST\HelpST\obj\Debug\HelpST.xml
+F:\Etec\3 Ano\TCC\HelpST\HelpST\obj\Debug\HelpST.pdb
+E:\Etec\3 Ano\TCC\HelpST\HelpST\bin\Debug\HelpST.exe.config
+E:\Etec\3 Ano\TCC\HelpST\HelpST\obj\Debug\HelpST.exe
+E:\Etec\3 Ano\TCC\HelpST\HelpST\obj\Debug\HelpST.xml
+E:\Etec\3 Ano\TCC\HelpST\HelpST\obj\Debug\HelpST.pdb
+C:\Users\Manager\Desktop\HelpST\HelpST\bin\Debug\HelpST.exe.config
+C:\Users\Manager\Desktop\HelpST\HelpST\obj\Debug\HelpST.exe
+C:\Users\Manager\Desktop\HelpST\HelpST\obj\Debug\HelpST.xml
+C:\Users\Manager\Desktop\HelpST\HelpST\obj\Debug\HelpST.pdb
+C:\Users\Manager\Desktop\HelpST\HelpST\bin\Debug\HelpST.exe
+C:\Users\Manager\Desktop\HelpST\HelpST\bin\Debug\HelpST.pdb
+C:\Users\Manager\Desktop\HelpST\HelpST\bin\Debug\HelpST.xml
+C:\Users\Manager\Desktop\HelpST\HelpST\bin\Debug\MetroFramework.Design.dll
+C:\Users\Manager\Desktop\HelpST\HelpST\bin\Debug\MetroFramework.dll
+C:\Users\Manager\Desktop\HelpST\HelpST\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Manager\Desktop\HelpST\HelpST\obj\Debug\HelpST.vbprojResolveAssemblyReference.cache
+C:\Users\Manager\Desktop\HelpST\HelpST\obj\Debug\HelpST.Chamados.resources
+C:\Users\Manager\Desktop\HelpST\HelpST\obj\Debug\HelpST.ChamadosExcluidos.resources
+C:\Users\Manager\Desktop\HelpST\HelpST\obj\Debug\HelpST.ChamadosFinalizados.resources
+C:\Users\Manager\Desktop\HelpST\HelpST\obj\Debug\HelpST.MenuAdmin.resources
+C:\Users\Manager\Desktop\HelpST\HelpST\obj\Debug\HelpST.MenuUser.resources
+C:\Users\Manager\Desktop\HelpST\HelpST\obj\Debug\HelpST.MeusChamados.resources
+C:\Users\Manager\Desktop\HelpST\HelpST\obj\Debug\HelpST.NovaSala.resources
+C:\Users\Manager\Desktop\HelpST\HelpST\obj\Debug\HelpST.NovoChamado.resources
+C:\Users\Manager\Desktop\HelpST\HelpST\obj\Debug\HelpST.NovoUsuario.resources
+C:\Users\Manager\Desktop\HelpST\HelpST\obj\Debug\HelpST.Chamado.resources
+C:\Users\Manager\Desktop\HelpST\HelpST\obj\Debug\HelpST.ResponderChamado.resources
+C:\Users\Manager\Desktop\HelpST\HelpST\obj\Debug\HelpST.TelaLogin.resources
+C:\Users\Manager\Desktop\HelpST\HelpST\obj\Debug\HelpST.Resources.resources
+C:\Users\Manager\Desktop\HelpST\HelpST\obj\Debug\HelpST.vbproj.GenerateResource.Cache
+F:\Etec\3 Ano\TCC\2910HelpST\HelpST\obj\Debug\HelpST.vbprojAssemblyReference.cache
+F:\Etec\3 Ano\TCC\2910HelpST\HelpST\obj\Debug\HelpST.Chamados.resources
+F:\Etec\3 Ano\TCC\2910HelpST\HelpST\obj\Debug\HelpST.ChamadosExcluidos.resources
+F:\Etec\3 Ano\TCC\2910HelpST\HelpST\obj\Debug\HelpST.ChamadosFinalizados.resources
+F:\Etec\3 Ano\TCC\2910HelpST\HelpST\obj\Debug\HelpST.MenuAdmin.resources
+F:\Etec\3 Ano\TCC\2910HelpST\HelpST\obj\Debug\HelpST.MenuUser.resources
+F:\Etec\3 Ano\TCC\2910HelpST\HelpST\obj\Debug\HelpST.MeusChamados.resources
+F:\Etec\3 Ano\TCC\2910HelpST\HelpST\obj\Debug\HelpST.NovaSala.resources
+F:\Etec\3 Ano\TCC\2910HelpST\HelpST\obj\Debug\HelpST.NovoChamado.resources
+F:\Etec\3 Ano\TCC\2910HelpST\HelpST\obj\Debug\HelpST.NovoUsuario.resources
+F:\Etec\3 Ano\TCC\2910HelpST\HelpST\obj\Debug\HelpST.Chamado.resources
+F:\Etec\3 Ano\TCC\2910HelpST\HelpST\obj\Debug\HelpST.ResponderChamado.resources
+F:\Etec\3 Ano\TCC\2910HelpST\HelpST\obj\Debug\HelpST.TelaLogin.resources
+F:\Etec\3 Ano\TCC\2910HelpST\HelpST\obj\Debug\HelpST.Resources.resources
+F:\Etec\3 Ano\TCC\2910HelpST\HelpST\obj\Debug\HelpST.vbproj.GenerateResource.cache
+F:\Etec\3 Ano\TCC\2910HelpST\HelpST\obj\Debug\HelpST.vbproj.CoreCompileInputs.cache
+F:\Etec\3 Ano\TCC\2910HelpST\HelpST\obj\Debug\HelpST.exe
+F:\Etec\3 Ano\TCC\2910HelpST\HelpST\obj\Debug\HelpST.xml
+F:\Etec\3 Ano\TCC\2910HelpST\HelpST\obj\Debug\HelpST.pdb
+F:\Etec\3 Ano\TCC\2910HelpST\HelpST\bin\Debug\HelpST.exe.config
+F:\Etec\3 Ano\TCC\2910HelpST\HelpST\bin\Debug\HelpST.exe
+F:\Etec\3 Ano\TCC\2910HelpST\HelpST\bin\Debug\HelpST.pdb
+F:\Etec\3 Ano\TCC\2910HelpST\HelpST\bin\Debug\HelpST.xml
+F:\Etec\3 Ano\TCC\2910HelpST\HelpST\bin\Debug\MetroFramework.Design.dll
+F:\Etec\3 Ano\TCC\2910HelpST\HelpST\bin\Debug\MetroFramework.dll
+F:\Etec\3 Ano\TCC\2910HelpST\HelpST\bin\Debug\MetroFramework.Fonts.dll
+F:\Etec\3 Ano\TCC\2910HelpST\HelpST\obj\Debug\HelpST.vbproj.CopyComplete
+E:\Etec\3 Ano\TCC\2910HelpST\HelpST\bin\Debug\HelpST.exe.config
+E:\Etec\3 Ano\TCC\2910HelpST\HelpST\obj\Debug\HelpST.exe
+E:\Etec\3 Ano\TCC\2910HelpST\HelpST\obj\Debug\HelpST.xml
+E:\Etec\3 Ano\TCC\2910HelpST\HelpST\obj\Debug\HelpST.pdb
+E:\Etec\3 Ano\TCC\2910HelpST\HelpST\obj\Debug\HelpST.vbprojResolveAssemblyReference.cache
+E:\Etec\3 Ano\TCC\2910HelpST\HelpST\obj\Debug\HelpST.Chamados.resources
+E:\Etec\3 Ano\TCC\2910HelpST\HelpST\obj\Debug\HelpST.ChamadosExcluidos.resources
+E:\Etec\3 Ano\TCC\2910HelpST\HelpST\obj\Debug\HelpST.ChamadosFinalizados.resources
+E:\Etec\3 Ano\TCC\2910HelpST\HelpST\obj\Debug\HelpST.MenuAdmin.resources
+E:\Etec\3 Ano\TCC\2910HelpST\HelpST\obj\Debug\HelpST.MenuUser.resources
+E:\Etec\3 Ano\TCC\2910HelpST\HelpST\obj\Debug\HelpST.MeusChamados.resources
+E:\Etec\3 Ano\TCC\2910HelpST\HelpST\obj\Debug\HelpST.NovaSala.resources
+E:\Etec\3 Ano\TCC\2910HelpST\HelpST\obj\Debug\HelpST.NovoChamado.resources
+E:\Etec\3 Ano\TCC\2910HelpST\HelpST\obj\Debug\HelpST.NovoUsuario.resources
+E:\Etec\3 Ano\TCC\2910HelpST\HelpST\obj\Debug\HelpST.Chamado.resources
+E:\Etec\3 Ano\TCC\2910HelpST\HelpST\obj\Debug\HelpST.ResponderChamado.resources
+E:\Etec\3 Ano\TCC\2910HelpST\HelpST\obj\Debug\HelpST.TelaLogin.resources
+E:\Etec\3 Ano\TCC\2910HelpST\HelpST\obj\Debug\HelpST.Resources.resources
+E:\Etec\3 Ano\TCC\2910HelpST\HelpST\obj\Debug\HelpST.vbproj.GenerateResource.Cache
+E:\Etec\3 Ano\TCC\2910HelpST\HelpST\bin\Debug\HelpST.exe
+E:\Etec\3 Ano\TCC\2910HelpST\HelpST\bin\Debug\HelpST.pdb
+E:\Etec\3 Ano\TCC\2910HelpST\HelpST\bin\Debug\HelpST.xml
+E:\Etec\3 Ano\TCC\2910HelpST\HelpST\bin\Debug\MetroFramework.Design.dll
+E:\Etec\3 Ano\TCC\2910HelpST\HelpST\bin\Debug\MetroFramework.dll
+E:\Etec\3 Ano\TCC\2910HelpST\HelpST\bin\Debug\MetroFramework.Fonts.dll
+D:\2910HelpST\HelpST\bin\Debug\HelpST.exe.config
+D:\2910HelpST\HelpST\bin\Debug\HelpST.exe
+D:\2910HelpST\HelpST\bin\Debug\HelpST.pdb
+D:\2910HelpST\HelpST\bin\Debug\HelpST.xml
+D:\2910HelpST\HelpST\bin\Debug\MetroFramework.Design.dll
+D:\2910HelpST\HelpST\bin\Debug\MetroFramework.dll
+D:\2910HelpST\HelpST\bin\Debug\MetroFramework.Fonts.dll
+D:\2910HelpST\HelpST\obj\Debug\HelpST.Chamados.resources
+D:\2910HelpST\HelpST\obj\Debug\HelpST.ChamadosExcluidos.resources
+D:\2910HelpST\HelpST\obj\Debug\HelpST.ChamadosFinalizados.resources
+D:\2910HelpST\HelpST\obj\Debug\HelpST.MenuAdmin.resources
+D:\2910HelpST\HelpST\obj\Debug\HelpST.MenuUser.resources
+D:\2910HelpST\HelpST\obj\Debug\HelpST.MeusChamados.resources
+D:\2910HelpST\HelpST\obj\Debug\HelpST.NovaSala.resources
+D:\2910HelpST\HelpST\obj\Debug\HelpST.NovoChamado.resources
+D:\2910HelpST\HelpST\obj\Debug\HelpST.NovoUsuario.resources
+D:\2910HelpST\HelpST\obj\Debug\HelpST.Chamado.resources
+D:\2910HelpST\HelpST\obj\Debug\HelpST.ResponderChamado.resources
+D:\2910HelpST\HelpST\obj\Debug\HelpST.TelaLogin.resources
+D:\2910HelpST\HelpST\obj\Debug\HelpST.Resources.resources
+D:\2910HelpST\HelpST\obj\Debug\HelpST.vbproj.GenerateResource.cache
+D:\2910HelpST\HelpST\obj\Debug\HelpST.exe
+D:\2910HelpST\HelpST\obj\Debug\HelpST.xml
+D:\2910HelpST\HelpST\obj\Debug\HelpST.pdb
+E:\2910HelpST\HelpST\bin\Debug\HelpST.exe.config
+E:\2910HelpST\HelpST\obj\Debug\HelpST.exe
+E:\2910HelpST\HelpST\obj\Debug\HelpST.xml
+E:\2910HelpST\HelpST\obj\Debug\HelpST.pdb
+E:\2910HelpST\HelpST\obj\Debug\HelpST.vbprojResolveAssemblyReference.cache
+E:\2910HelpST\HelpST\obj\Debug\HelpST.Chamados.resources
+E:\2910HelpST\HelpST\obj\Debug\HelpST.ChamadosExcluidos.resources
+E:\2910HelpST\HelpST\obj\Debug\HelpST.ChamadosFinalizados.resources
+E:\2910HelpST\HelpST\obj\Debug\HelpST.MenuAdmin.resources
+E:\2910HelpST\HelpST\obj\Debug\HelpST.MenuUser.resources
+E:\2910HelpST\HelpST\obj\Debug\HelpST.MeusChamados.resources
+E:\2910HelpST\HelpST\obj\Debug\HelpST.NovaSala.resources
+E:\2910HelpST\HelpST\obj\Debug\HelpST.NovoChamado.resources
+E:\2910HelpST\HelpST\obj\Debug\HelpST.NovoUsuario.resources
+E:\2910HelpST\HelpST\obj\Debug\HelpST.Chamado.resources
+E:\2910HelpST\HelpST\obj\Debug\HelpST.ResponderChamado.resources
+E:\2910HelpST\HelpST\obj\Debug\HelpST.TelaLogin.resources
+E:\2910HelpST\HelpST\obj\Debug\HelpST.Resources.resources
+E:\2910HelpST\HelpST\obj\Debug\HelpST.vbproj.GenerateResource.Cache
+E:\2910HelpST\HelpST\bin\Debug\HelpST.exe
+E:\2910HelpST\HelpST\bin\Debug\HelpST.pdb
+E:\2910HelpST\HelpST\bin\Debug\HelpST.xml
+E:\2910HelpST\HelpST\bin\Debug\MetroFramework.Design.dll
+E:\2910HelpST\HelpST\bin\Debug\MetroFramework.dll
+E:\2910HelpST\HelpST\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\gustavo\Desktop\2910HelpST\HelpST\bin\Debug\HelpST.exe.config
+C:\Users\gustavo\Desktop\2910HelpST\HelpST\bin\Debug\HelpST.exe
+C:\Users\gustavo\Desktop\2910HelpST\HelpST\bin\Debug\HelpST.pdb
+C:\Users\gustavo\Desktop\2910HelpST\HelpST\bin\Debug\HelpST.xml
+C:\Users\gustavo\Desktop\2910HelpST\HelpST\bin\Debug\MetroFramework.Design.dll
+C:\Users\gustavo\Desktop\2910HelpST\HelpST\bin\Debug\MetroFramework.dll
+C:\Users\gustavo\Desktop\2910HelpST\HelpST\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\gustavo\Desktop\2910HelpST\HelpST\obj\Debug\HelpST.vbprojAssemblyReference.cache
+C:\Users\gustavo\Desktop\2910HelpST\HelpST\obj\Debug\HelpST.Chamados.resources
+C:\Users\gustavo\Desktop\2910HelpST\HelpST\obj\Debug\HelpST.ChamadosExcluidos.resources
+C:\Users\gustavo\Desktop\2910HelpST\HelpST\obj\Debug\HelpST.ChamadosFinalizados.resources
+C:\Users\gustavo\Desktop\2910HelpST\HelpST\obj\Debug\HelpST.MenuAdmin.resources
+C:\Users\gustavo\Desktop\2910HelpST\HelpST\obj\Debug\HelpST.MenuUser.resources
+C:\Users\gustavo\Desktop\2910HelpST\HelpST\obj\Debug\HelpST.MeusChamados.resources
+C:\Users\gustavo\Desktop\2910HelpST\HelpST\obj\Debug\HelpST.NovaSala.resources
+C:\Users\gustavo\Desktop\2910HelpST\HelpST\obj\Debug\HelpST.NovoChamado.resources
+C:\Users\gustavo\Desktop\2910HelpST\HelpST\obj\Debug\HelpST.NovoUsuario.resources
+C:\Users\gustavo\Desktop\2910HelpST\HelpST\obj\Debug\HelpST.Chamado.resources
+C:\Users\gustavo\Desktop\2910HelpST\HelpST\obj\Debug\HelpST.ResponderChamado.resources
+C:\Users\gustavo\Desktop\2910HelpST\HelpST\obj\Debug\HelpST.TelaLogin.resources
+C:\Users\gustavo\Desktop\2910HelpST\HelpST\obj\Debug\HelpST.Resources.resources
+C:\Users\gustavo\Desktop\2910HelpST\HelpST\obj\Debug\HelpST.vbproj.GenerateResource.cache
+C:\Users\gustavo\Desktop\2910HelpST\HelpST\obj\Debug\HelpST.vbproj.CoreCompileInputs.cache
+C:\Users\gustavo\Desktop\2910HelpST\HelpST\obj\Debug\HelpST.vbproj.CopyComplete
+C:\Users\gustavo\Desktop\2910HelpST\HelpST\obj\Debug\HelpST.exe
+C:\Users\gustavo\Desktop\2910HelpST\HelpST\obj\Debug\HelpST.xml
+C:\Users\gustavo\Desktop\2910HelpST\HelpST\obj\Debug\HelpST.pdb
+J:\2910HelpST\HelpST\bin\Debug\HelpST.exe.config
+J:\2910HelpST\HelpST\obj\Debug\HelpST.exe
+J:\2910HelpST\HelpST\obj\Debug\HelpST.xml
+J:\2910HelpST\HelpST\obj\Debug\HelpST.pdb
+J:\2910HelpST\HelpST\bin\Debug\HelpST.exe
+J:\2910HelpST\HelpST\bin\Debug\HelpST.pdb
+J:\2910HelpST\HelpST\bin\Debug\HelpST.xml
+J:\2910HelpST\HelpST\bin\Debug\MetroFramework.Design.dll
+J:\2910HelpST\HelpST\bin\Debug\MetroFramework.dll
+J:\2910HelpST\HelpST\bin\Debug\MetroFramework.Fonts.dll
+J:\2910HelpST\HelpST\obj\Debug\HelpST.vbprojResolveAssemblyReference.cache
+J:\2910HelpST\HelpST\obj\Debug\HelpST.Chamados.resources
+J:\2910HelpST\HelpST\obj\Debug\HelpST.ChamadosExcluidos.resources
+J:\2910HelpST\HelpST\obj\Debug\HelpST.ChamadosFinalizados.resources
+J:\2910HelpST\HelpST\obj\Debug\HelpST.MenuAdmin.resources
+J:\2910HelpST\HelpST\obj\Debug\HelpST.MenuUser.resources
+J:\2910HelpST\HelpST\obj\Debug\HelpST.MeusChamados.resources
+J:\2910HelpST\HelpST\obj\Debug\HelpST.NovaSala.resources
+J:\2910HelpST\HelpST\obj\Debug\HelpST.NovoChamado.resources
+J:\2910HelpST\HelpST\obj\Debug\HelpST.NovoUsuario.resources
+J:\2910HelpST\HelpST\obj\Debug\HelpST.Chamado.resources
+J:\2910HelpST\HelpST\obj\Debug\HelpST.ResponderChamado.resources
+J:\2910HelpST\HelpST\obj\Debug\HelpST.TelaLogin.resources
+J:\2910HelpST\HelpST\obj\Debug\HelpST.Resources.resources
+J:\2910HelpST\HelpST\obj\Debug\HelpST.vbproj.GenerateResource.Cache
+D:\2910HelpST\HelpST\obj\Debug\HelpST.vbprojAssemblyReference.cache
+D:\2910HelpST\HelpST\obj\Debug\HelpST.vbproj.CoreCompileInputs.cache
+D:\2910HelpST\HelpST\obj\Debug\HelpST.vbproj.CopyComplete
+C:\Users\gustavo\Desktop\2910HelpST\HelpST\obj\Debug\HelpST.ChamadoFinalizado.resources
+E:\2910HelpST\HelpST\obj\Debug\HelpST.ChamadoFinalizado.resources
+D:\Nova pasta\2910HelpST\HelpST\bin\Debug\HelpST.exe.config
+D:\Nova pasta\2910HelpST\HelpST\bin\Debug\HelpST.exe
+D:\Nova pasta\2910HelpST\HelpST\bin\Debug\HelpST.pdb
+D:\Nova pasta\2910HelpST\HelpST\bin\Debug\HelpST.xml
+D:\Nova pasta\2910HelpST\HelpST\bin\Debug\MetroFramework.Design.dll
+D:\Nova pasta\2910HelpST\HelpST\bin\Debug\MetroFramework.dll
+D:\Nova pasta\2910HelpST\HelpST\bin\Debug\MetroFramework.Fonts.dll
+D:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.vbprojAssemblyReference.cache
+D:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.ChamadoFinalizado.resources
+D:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.Chamados.resources
+D:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.ChamadosExcluidos.resources
+D:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.ChamadosFinalizados.resources
+D:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.MenuAdmin.resources
+D:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.MenuUser.resources
+D:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.MeusChamados.resources
+D:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.NovaSala.resources
+D:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.NovoChamado.resources
+D:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.NovoUsuario.resources
+D:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.Chamado.resources
+D:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.ResponderChamado.resources
+D:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.TelaLogin.resources
+D:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.Resources.resources
+D:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.vbproj.GenerateResource.cache
+D:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.vbproj.CoreCompileInputs.cache
+D:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.vbproj.CopyComplete
+D:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.exe
+D:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.xml
+D:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.pdb
+E:\Nova pasta\2910HelpST\HelpST\bin\Debug\HelpST.exe.config
+E:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.exe
+E:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.xml
+E:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.pdb
+E:\Nova pasta\2910HelpST\HelpST\bin\Debug\HelpST.exe
+E:\Nova pasta\2910HelpST\HelpST\bin\Debug\HelpST.pdb
+E:\Nova pasta\2910HelpST\HelpST\bin\Debug\HelpST.xml
+E:\Nova pasta\2910HelpST\HelpST\bin\Debug\MetroFramework.Design.dll
+E:\Nova pasta\2910HelpST\HelpST\bin\Debug\MetroFramework.dll
+E:\Nova pasta\2910HelpST\HelpST\bin\Debug\MetroFramework.Fonts.dll
+E:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.vbprojResolveAssemblyReference.cache
+E:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.ChamadoFinalizado.resources
+E:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.Chamados.resources
+E:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.ChamadosExcluidos.resources
+E:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.ChamadosFinalizados.resources
+E:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.MenuAdmin.resources
+E:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.MenuUser.resources
+E:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.MeusChamados.resources
+E:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.NovaSala.resources
+E:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.NovoChamado.resources
+E:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.NovoUsuario.resources
+E:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.Chamado.resources
+E:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.ResponderChamado.resources
+E:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.TelaLogin.resources
+E:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.Resources.resources
+E:\Nova pasta\2910HelpST\HelpST\obj\Debug\HelpST.vbproj.GenerateResource.Cache
+C:\Users\Familia\Desktop\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.vbprojAssemblyReference.cache
+C:\Users\Familia\Desktop\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.exe
+C:\Users\Familia\Desktop\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.xml
+C:\Users\Familia\Desktop\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.pdb
+C:\Users\Familia\Desktop\0812HelpST\2910HelpST\HelpST\bin\Debug\HelpST.exe.config
+C:\Users\Familia\Desktop\0812HelpST\2910HelpST\HelpST\bin\Debug\HelpST.exe
+C:\Users\Familia\Desktop\0812HelpST\2910HelpST\HelpST\bin\Debug\HelpST.pdb
+C:\Users\Familia\Desktop\0812HelpST\2910HelpST\HelpST\bin\Debug\HelpST.xml
+C:\Users\Familia\Desktop\0812HelpST\2910HelpST\HelpST\bin\Debug\MetroFramework.Design.dll
+C:\Users\Familia\Desktop\0812HelpST\2910HelpST\HelpST\bin\Debug\MetroFramework.dll
+C:\Users\Familia\Desktop\0812HelpST\2910HelpST\HelpST\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Familia\Desktop\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.ChamadoFinalizado.resources
+C:\Users\Familia\Desktop\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.Chamados.resources
+C:\Users\Familia\Desktop\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.ChamadosExcluidos.resources
+C:\Users\Familia\Desktop\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.ChamadosFinalizados.resources
+C:\Users\Familia\Desktop\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.MenuAdmin.resources
+C:\Users\Familia\Desktop\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.MenuUser.resources
+C:\Users\Familia\Desktop\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.MeusChamados.resources
+C:\Users\Familia\Desktop\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.NovaSala.resources
+C:\Users\Familia\Desktop\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.NovoChamado.resources
+C:\Users\Familia\Desktop\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.NovoUsuario.resources
+C:\Users\Familia\Desktop\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.Chamado.resources
+C:\Users\Familia\Desktop\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.ResponderChamado.resources
+C:\Users\Familia\Desktop\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.TelaLogin.resources
+C:\Users\Familia\Desktop\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.Resources.resources
+C:\Users\Familia\Desktop\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.vbproj.GenerateResource.cache
+C:\Users\Familia\Desktop\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.vbproj.CoreCompileInputs.cache
+C:\Users\Familia\Desktop\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.vbproj.CopyComplete
+E:\0812HelpST\2910HelpST\HelpST\bin\Debug\HelpST.exe.config
+E:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.exe
+E:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.xml
+E:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.pdb
+E:\0812HelpST\2910HelpST\HelpST\bin\Debug\HelpST.exe
+E:\0812HelpST\2910HelpST\HelpST\bin\Debug\HelpST.pdb
+E:\0812HelpST\2910HelpST\HelpST\bin\Debug\HelpST.xml
+E:\0812HelpST\2910HelpST\HelpST\bin\Debug\MetroFramework.Design.dll
+E:\0812HelpST\2910HelpST\HelpST\bin\Debug\MetroFramework.dll
+E:\0812HelpST\2910HelpST\HelpST\bin\Debug\MetroFramework.Fonts.dll
+E:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.vbprojResolveAssemblyReference.cache
+E:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.ChamadoFinalizado.resources
+E:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.Chamados.resources
+E:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.ChamadosExcluidos.resources
+E:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.ChamadosFinalizados.resources
+E:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.MenuAdmin.resources
+E:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.MenuUser.resources
+E:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.MeusChamados.resources
+E:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.NovaSala.resources
+E:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.NovoChamado.resources
+E:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.NovoUsuario.resources
+E:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.Chamado.resources
+E:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.ResponderChamado.resources
+E:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.TelaLogin.resources
+E:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.Resources.resources
+E:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.vbproj.GenerateResource.Cache
+E:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.Logoff.resources
+F:\0812HelpST\2910HelpST\HelpST\bin\Debug\HelpST.exe.config
+F:\0812HelpST\2910HelpST\HelpST\bin\Debug\HelpST.exe
+F:\0812HelpST\2910HelpST\HelpST\bin\Debug\HelpST.pdb
+F:\0812HelpST\2910HelpST\HelpST\bin\Debug\HelpST.xml
+F:\0812HelpST\2910HelpST\HelpST\bin\Debug\MetroFramework.Design.dll
+F:\0812HelpST\2910HelpST\HelpST\bin\Debug\MetroFramework.dll
+F:\0812HelpST\2910HelpST\HelpST\bin\Debug\MetroFramework.Fonts.dll
+F:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.vbprojAssemblyReference.cache
+F:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.ChamadoFinalizado.resources
+F:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.Chamados.resources
+F:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.ChamadosExcluidos.resources
+F:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.ChamadosFinalizados.resources
+F:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.Logoff.resources
+F:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.MenuAdmin.resources
+F:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.MenuUser.resources
+F:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.MeusChamados.resources
+F:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.NovaSala.resources
+F:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.NovoChamado.resources
+F:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.NovoUsuario.resources
+F:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.Chamado.resources
+F:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.ResponderChamado.resources
+F:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.TelaLogin.resources
+F:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.Resources.resources
+F:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.vbproj.GenerateResource.cache
+F:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.vbproj.CoreCompileInputs.cache
+F:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.vbproj.CopyComplete
+F:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.exe
+F:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.xml
+F:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.pdb
+F:\0812HelpST\2910HelpST\HelpST\bin\Debug\HelpST.exe.manifest
+F:\0812HelpST\2910HelpST\HelpST\bin\Debug\HelpST.application
+F:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.exe.manifest
+F:\0812HelpST\2910HelpST\HelpST\obj\Debug\HelpST.application
+E:\HelpST-Codigo\2910HelpST\HelpST\bin\Debug\HelpST.exe.config
+E:\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.exe
+E:\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.xml
+E:\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.pdb
+C:\Users\Manager\Desktop\HelpST-Codigo\2910HelpST\HelpST\bin\Debug\HelpST.exe.config
+C:\Users\Manager\Desktop\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.exe
+C:\Users\Manager\Desktop\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.xml
+C:\Users\Manager\Desktop\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.pdb
+C:\Users\Manager\Desktop\HelpST-Codigo\2910HelpST\HelpST\bin\Debug\HelpST.exe.manifest
+C:\Users\Manager\Desktop\HelpST-Codigo\2910HelpST\HelpST\bin\Debug\HelpST.application
+C:\Users\Manager\Desktop\HelpST-Codigo\2910HelpST\HelpST\bin\Debug\HelpST.exe
+C:\Users\Manager\Desktop\HelpST-Codigo\2910HelpST\HelpST\bin\Debug\HelpST.pdb
+C:\Users\Manager\Desktop\HelpST-Codigo\2910HelpST\HelpST\bin\Debug\HelpST.xml
+C:\Users\Manager\Desktop\HelpST-Codigo\2910HelpST\HelpST\bin\Debug\MetroFramework.Design.dll
+C:\Users\Manager\Desktop\HelpST-Codigo\2910HelpST\HelpST\bin\Debug\MetroFramework.dll
+C:\Users\Manager\Desktop\HelpST-Codigo\2910HelpST\HelpST\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Manager\Desktop\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.vbprojResolveAssemblyReference.cache
+C:\Users\Manager\Desktop\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.ChamadoFinalizado.resources
+C:\Users\Manager\Desktop\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.Chamados.resources
+C:\Users\Manager\Desktop\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.ChamadosExcluidos.resources
+C:\Users\Manager\Desktop\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.ChamadosFinalizados.resources
+C:\Users\Manager\Desktop\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.Logoff.resources
+C:\Users\Manager\Desktop\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.MenuAdmin.resources
+C:\Users\Manager\Desktop\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.MenuUser.resources
+C:\Users\Manager\Desktop\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.MeusChamados.resources
+C:\Users\Manager\Desktop\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.NovaSala.resources
+C:\Users\Manager\Desktop\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.NovoChamado.resources
+C:\Users\Manager\Desktop\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.NovoUsuario.resources
+C:\Users\Manager\Desktop\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.Chamado.resources
+C:\Users\Manager\Desktop\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.ResponderChamado.resources
+C:\Users\Manager\Desktop\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.TelaLogin.resources
+C:\Users\Manager\Desktop\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.Resources.resources
+C:\Users\Manager\Desktop\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.vbproj.GenerateResource.Cache
+C:\Users\Manager\Desktop\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.exe.manifest
+C:\Users\Manager\Desktop\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.application
+F:\HelpST-Codigo\2910HelpST\HelpST\bin\Debug\HelpST.exe.config
+F:\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.exe
+F:\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.xml
+F:\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.pdb
+F:\HelpST-Codigo\2910HelpST\HelpST\bin\Debug\HelpST.exe.manifest
+F:\HelpST-Codigo\2910HelpST\HelpST\bin\Debug\HelpST.application
+F:\HelpST-Codigo\2910HelpST\HelpST\bin\Debug\HelpST.exe
+F:\HelpST-Codigo\2910HelpST\HelpST\bin\Debug\HelpST.pdb
+F:\HelpST-Codigo\2910HelpST\HelpST\bin\Debug\HelpST.xml
+F:\HelpST-Codigo\2910HelpST\HelpST\bin\Debug\MetroFramework.Design.dll
+F:\HelpST-Codigo\2910HelpST\HelpST\bin\Debug\MetroFramework.dll
+F:\HelpST-Codigo\2910HelpST\HelpST\bin\Debug\MetroFramework.Fonts.dll
+F:\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.vbprojResolveAssemblyReference.cache
+F:\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.ChamadoFinalizado.resources
+F:\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.Chamados.resources
+F:\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.ChamadosExcluidos.resources
+F:\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.ChamadosFinalizados.resources
+F:\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.Logoff.resources
+F:\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.MenuAdmin.resources
+F:\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.MenuUser.resources
+F:\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.MeusChamados.resources
+F:\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.NovaSala.resources
+F:\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.NovoChamado.resources
+F:\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.NovoUsuario.resources
+F:\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.Chamado.resources
+F:\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.ResponderChamado.resources
+F:\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.TelaLogin.resources
+F:\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.Resources.resources
+F:\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.vbproj.GenerateResource.Cache
+F:\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.exe.manifest
+F:\HelpST-Codigo\2910HelpST\HelpST\obj\Debug\HelpST.application
+D:\Help ST\Codigo\2910HelpST\HelpST\obj\Debug\HelpST.vbprojAssemblyReference.cache
+D:\Help ST\Codigo\2910HelpST\HelpST\obj\Debug\HelpST.ChamadoFinalizado.resources
+D:\Help ST\Codigo\2910HelpST\HelpST\obj\Debug\HelpST.Chamados.resources
+D:\Help ST\Codigo\2910HelpST\HelpST\obj\Debug\HelpST.ChamadosExcluidos.resources
+D:\Help ST\Codigo\2910HelpST\HelpST\obj\Debug\HelpST.ChamadosFinalizados.resources
+D:\Help ST\Codigo\2910HelpST\HelpST\obj\Debug\HelpST.Logoff.resources
+D:\Help ST\Codigo\2910HelpST\HelpST\obj\Debug\HelpST.MenuAdmin.resources
+D:\Help ST\Codigo\2910HelpST\HelpST\obj\Debug\HelpST.MenuUser.resources
+D:\Help ST\Codigo\2910HelpST\HelpST\obj\Debug\HelpST.MeusChamados.resources
+D:\Help ST\Codigo\2910HelpST\HelpST\obj\Debug\HelpST.NovaSala.resources
+D:\Help ST\Codigo\2910HelpST\HelpST\obj\Debug\HelpST.NovoChamado.resources
+D:\Help ST\Codigo\2910HelpST\HelpST\obj\Debug\HelpST.NovoUsuario.resources
+D:\Help ST\Codigo\2910HelpST\HelpST\obj\Debug\HelpST.Chamado.resources
+D:\Help ST\Codigo\2910HelpST\HelpST\obj\Debug\HelpST.ResponderChamado.resources
+D:\Help ST\Codigo\2910HelpST\HelpST\obj\Debug\HelpST.TelaLogin.resources
+D:\Help ST\Codigo\2910HelpST\HelpST\obj\Debug\HelpST.Resources.resources
+D:\Help ST\Codigo\2910HelpST\HelpST\obj\Debug\HelpST.vbproj.GenerateResource.cache
+D:\Help ST\Codigo\2910HelpST\HelpST\obj\Debug\HelpST.vbproj.CoreCompileInputs.cache
+D:\Help ST\Codigo\2910HelpST\HelpST\obj\Debug\HelpST.exe
+D:\Help ST\Codigo\2910HelpST\HelpST\obj\Debug\HelpST.xml
+D:\Help ST\Codigo\2910HelpST\HelpST\obj\Debug\HelpST.pdb
